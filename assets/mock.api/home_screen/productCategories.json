@@ -1,0 +1,78 @@
+{
+  "home_screen": {
+    "status": "success",
+    "data": {
+      "categories": [
+        {
+          "category_id": "1",
+          "category_title": "pastries",
+          "category_image_url": "file:///android_asset/mock.api/images/home_screen/categories/pastries_categories.png"
+        },
+        {
+          "category_id": "2",
+          "category_title": "cakes",
+          "category_image_url": "file:///android_asset/mock.api/images/home_screen/categories/cakes_categories.png"
+        },
+        {
+          "category_id": "3",
+          "category_title": "cupcakes",
+          "category_image_url": "file:///android_asset/mock.api/images/home_screen/categories/cupcakes_categories.png"
+        },
+        {
+          "category_id": "4",
+          "category_title": "macarons",
+          "category_image_url": "file:///android_asset/mock.api/images/home_screen/categories/macarons_categories.png"
+        },
+        {
+          "category_id": "5",
+          "category_title": "breads",
+          "category_image_url": "file:///android_asset/mock.api/images/home_screen/categories/breads_categories.png"
+        },
+        {
+          "category_id": "6",
+          "category_title": "drinks",
+          "category_image_url": "file:///android_asset/mock.api/images/home_screen/categories/drinks_categories.png"
+        }
+      ],
+      "seasonal_items": [
+        {
+          "seasonal_item_id": "1",
+          "seasonal_item_title": "Salted Caramel",
+          "seasonal_item_image_url": "file:///android_asset/home_screen/images/seasonal_items/pairingtea_icon_6.png",
+          "seasonal_item_type": "macaron"
+        },
+        {
+          "seasonal_item_id": "2",
+          "seasonal_item_title": "Mimosa",
+          "seasonal_item_image_url": "file:///android_asset/home_screen/images/seasonal_items/pairingtea_icon_5.png",
+          "seasonal_item_type": "drinks"
+        },
+        {
+          "seasonal_item_id": "3",
+          "seasonal_item_title": "Keylime",
+          "seasonal_item_image_url": "file:///android_asset/images/seasonal_items/pairingtea_icon_4.png",
+          "seasonal_item_type": "macaron"
+        },
+        {
+          "seasonal_item_id": "4",
+          "seasonal_item_title": "Cherry Blossom",
+          "seasonal_item_image_url": "file:///android_asset/images/seasonal_items/pairingtea_icon_3.png",
+          "seasonal_item_type": "macaron"
+        },
+        {
+          "seasonal_item_id": "5",
+          "seasonal_item_title": "Red Sangria",
+          "seasonal_item_image_url": "file:///android_asset/images/seasonal_items/pairingtea_icon_2.png",
+          "seasonal_item_type": "drinks"
+        },
+        {
+          "seasonal_item_id": "6",
+          "seasonal_item_title": "Raspberry",
+          "seasonal_item_image_url": "file:///android_asset/images/seasonal_items/pairingtea_icon_1.png",
+          "seasonal_item_type": "macaron"
+        }
+      ]
+    }
+  },
+  "message": ""
+}

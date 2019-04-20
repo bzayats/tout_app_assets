@@ -1,0 +1,132 @@
+{
+  "details_screen": {
+    "status": "success",
+    "data": {
+      "items": [
+        {
+          "itemId": "1",
+          "itemTitle": "Chocolate Covered",
+          "itemDescription": "Test Description",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_chocolate_covered.png"
+        },
+        {
+          "itemId": "2",
+          "itemTitle": "Vanilla Chocolate",
+          "itemDescription": "Test Description 2",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.png"
+        },
+        {
+          "itemId": "3",
+          "itemTitle": "Lemon",
+          "itemDescription": "Test Description 3",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_lemon.png"
+        },
+        {
+          "itemId": "4",
+          "itemTitle": "Strawberry",
+          "itemDescription": "Test Description 3",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_strawberry.png"
+        },
+        {
+          "itemId": "5",
+          "itemTitle": "Red Velvet",
+          "itemDescription": "Test Description 4",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_red_velvet.png"
+        },
+        {
+          "itemId": "6",
+          "itemTitle": "Orange",
+          "itemDescription": "Test Description 5",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_orange.png"
+        },
+        {
+          "itemId": "7",
+          "itemTitle": "Lime Basil ",
+          "itemDescription": "Test Description 6",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_lime_basil.png"
+        },
+        {
+          "itemId": "8",
+          "itemTitle": "Vanilla Bean",
+          "itemDescription": "Test Description 7",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_vanilla_bean.png"
+        },
+        {
+          "itemId": "9",
+          "itemTitle": "Guava",
+          "itemDescription": "Test Description 8",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_guava.png"
+        }
+      ],
+      "seasonal_items": [
+        {
+          "itemId": "5",
+          "itemTitle": "Red Velvet",
+          "itemDescription": "Test Description 4",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/details_screen/images/salted_caramel_macaron.png"
+        },
+        {
+          "itemId": "8",
+          "itemTitle": "Vanilla Bean",
+          "itemDescription": "Test Description 7",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/details_screen/images/mimosa_macaron.png"
+        },
+        {
+          "itemId": "6",
+          "itemTitle": "Orange",
+          "itemDescription": "Test Description 5",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/images/keylime_macaron.png"
+        },
+        {
+          "itemId": "1",
+          "itemTitle": "Chocolate Covered",
+          "itemDescription": "Test Description",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/images/cherry_blossom_macaron.png"
+        },
+        {
+          "itemId": "9",
+          "itemTitle": "Guava",
+          "itemDescription": "Test Description 8",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/images/red_sangria_macaron.png"
+        },
+        {
+          "itemId": "4",
+          "itemTitle": "Strawberry",
+          "itemDescription": "Test Description 3",
+          "itemPrice": "1.99",
+          "itemType": "macarons",
+          "imageURL": "file:///android_asset/images/raspberry_macaron.png"
+        }
+      ]
+    }
+  },
+  "message": ""
+}
