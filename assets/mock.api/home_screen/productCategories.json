@@ -2,31 +2,31 @@
         {
           "categoryId": "1",
           "categoryTitle": "pastries",
-          "categoryImageUrl": "https://github.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/pastries_categories.png?raw=true"
+          "categoryImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/pastries_categories.png"
         },
         {
           "categoryId": "2",
           "categoryTitle": "cakes",
-          "categoryImageUrl": "https://github.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/cakes_categories.png?raw=true"
+          "categoryImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/cakes_categories.png?raw=true"
         },
         {
           "categoryId": "3",
           "categoryTitle": "cupcakes",
-          "categoryImageUrl": "https://github.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/cupcakes_categories.png?raw=true"
+          "categoryImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/cupcakes_categories.png?raw=true"
         },
         {
           "categoryId": "4",
           "categoryTitle": "macarons",
-          "categoryImageUrl": "https://github.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/macarons_categories.png?raw=true"
+          "categoryImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/macarons_categories.png?raw=true"
         },
         {
           "categoryId": "5",
           "categoryTitle": "breads",
-          "categoryImageUrl": "https://github.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/breads_categories.png?raw=true"
+          "categoryImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/breads_categories.png?raw=true"
         },
         {
           "categoryId": "6",
           "categoryTitle": "drinks",
-          "categoryImageUrl": "https://github.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/drinks_categories.png?raw=true"
+          "categoryImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/tree/master/assets/mock.api/images/home_screen/categories/drinks_categories.png?raw=true"
         }
    ]
