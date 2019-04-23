@@ -5,7 +5,7 @@
           "itemDescription": "Test Description",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_chocolate_covered.png"
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg"
         },
         {
           "itemId": "2",
@@ -13,7 +13,7 @@
           "itemDescription": "Test Description 2",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.png"
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.jpg"
         },
         {
           "itemId": "3",
@@ -21,7 +21,7 @@
           "itemDescription": "Test Description 3",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_lemon.png"
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lemon.jpg"
         },
         {
           "itemId": "4",
@@ -29,7 +29,7 @@
           "itemDescription": "Test Description 3",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_strawberry.png"
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_strawberry.jpg"
         },
         {
           "itemId": "5",
@@ -37,7 +37,7 @@
           "itemDescription": "Test Description 4",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_red_velvet.png"
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_redvel.jpg"
         },
         {
           "itemId": "6",
@@ -45,7 +45,7 @@
           "itemDescription": "Test Description 5",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_orange.png"
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_orange.jpg"
         },
         {
           "itemId": "7",
@@ -53,7 +53,7 @@
           "itemDescription": "Test Description 6",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_lime_basil.png"
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lime_basil.jpg"
         },
         {
           "itemId": "8",
@@ -61,7 +61,7 @@
           "itemDescription": "Test Description 7",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_vanilla_bean.png"
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_bean.jpg"
         },
         {
           "itemId": "9",
@@ -69,7 +69,7 @@
           "itemDescription": "Test Description 8",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "file:///android_asset/mock.api/images/details_screen/macarons/macaron_guava.png"
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_guava.jpg"
         }
 ]
       
