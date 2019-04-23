@@ -5,6 +5,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg",
+          "pairees": "Coffee, Tea",
+          "labels": "Almond Flour, Gluten Free",
           "favorite": 0    
         },
         {          
@@ -13,6 +15,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.jpg",
+          "pairees": "Coffee, Tea",
+          "labels": "Almond Flour, Gluten Free",
           "favorite": 0      
         },
         {         
@@ -21,6 +25,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lemon.jpg",
+          "pairees": "Coffee, Tea",
+          "labels": "Almond Flour, Gluten Free",      
           "favorite": 0
         },
         {
@@ -38,6 +44,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_redvel.jpg",
+          "pairees": "Coffee, Tea",
+          "labels": "Almond Flour, Gluten Free",
           "favorite": 0      
         },
         {
@@ -47,6 +55,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_orange.jpg",
+          "pairees": "Coffee, Tea",
+          "labels": "Almond Flour, Gluten Free",
           "favorite": 0      
         },
         {
@@ -56,6 +66,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lime_basil.jpg",
+          "pairees": "Coffee, Tea",
+          "labels": "Almond Flour, Gluten Free",
           "favorite": 0      
         },
         {
@@ -65,6 +77,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_bean.jpg",
+          "pairees": "Coffee, Tea",
+          "labels": "Almond Flour, Gluten Free",
           "favorite": 0      
         },
         {
@@ -74,6 +88,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_guava.jpg",
+          "pairees": "Coffee, Tea",
+          "labels": "Almond Flour, Gluten Free",
           "favorite": 0      
         }
 ]
