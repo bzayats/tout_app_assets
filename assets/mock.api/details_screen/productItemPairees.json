@@ -1,0 +1,14 @@
+[
+        {       
+          "paireeDescription": "Cofee",      
+          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg"   
+        },
+        {          
+          "paireeDescription": "Sparkling",         
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.jpg"      
+        },
+        {         
+          "paireeDescription": "Tea",         
+          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lemon.jpg"
+        }
+]
