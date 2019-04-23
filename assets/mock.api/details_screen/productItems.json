@@ -5,7 +5,7 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg",
-          "favorite": 1    
+          "favorite": 0    
         },
         {          
           "itemTitle": "Vanilla Chocolate",
@@ -13,7 +13,7 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.jpg",
-          "favorite": 1      
+          "favorite": 0      
         },
         {         
           "itemTitle": "Lemon",
@@ -21,7 +21,7 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lemon.jpg",
-          "favorite": 1
+          "favorite": 0
         },
         {
           "itemTitle": "Strawberry",
@@ -29,7 +29,7 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_strawberry.jpg",
-          "favorite": 1      
+          "favorite": 0      
         },
         {
           "itemId": "5",
@@ -38,7 +38,7 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_redvel.jpg",
-          "favorite": 1      
+          "favorite": 0      
         },
         {
           "itemId": "6",
@@ -47,7 +47,7 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_orange.jpg",
-          "favorite": 1      
+          "favorite": 0      
         },
         {
           "itemId": "7",
@@ -56,7 +56,7 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lime_basil.jpg",
-          "favorite": 1      
+          "favorite": 0      
         },
         {
           "itemId": "8",
@@ -65,7 +65,7 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_bean.jpg",
-          "favorite": 1      
+          "favorite": 0      
         },
         {
           "itemId": "9",
@@ -74,7 +74,7 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_guava.jpg",
-          "favorite": 1      
+          "favorite": 0      
         }
 ]
       
