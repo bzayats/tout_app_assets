@@ -1,14 +1,14 @@
 [
         {       
-          "labelTitle": "Cofee",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcoffee_icon.png"   
+          "labelTitle": "Almond Flour",      
+          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png"   
         },
         {          
-          "labelTitle": "Sparkling",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon.png"      
+          "labelTitle": "Gluten Free",         
+          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png"      
         },
         {         
-          "labelTitle": "Tea",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon.png"
+          "labelTitle": "Let it Chill",         
+          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png"
         }
 ]
