@@ -1,38 +1,27 @@
-"seasonal_items": [
+[
         {
-          "seasonal_item_id": "1",
-          "seasonal_item_title": "Salted Caramel",
-          "seasonal_item_image_url": "file:///android_asset/home_screen/images/seasonal_items/pairingtea_icon_6.png",
-          "seasonal_item_type": "macaron"
+          "seasonalItemTitle": "Salted Caramel",
+          "seasonalItemImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_guava.jpg",
+          "seasonalItemType": "macaron"
         },
         {
-          "seasonal_item_id": "2",
-          "seasonal_item_title": "Mimosa",
-          "seasonal_item_image_url": "file:///android_asset/home_screen/images/seasonal_items/pairingtea_icon_5.png",
-          "seasonal_item_type": "drinks"
+          "seasonalItemTitle": "Keylime",
+          "seasonalItemImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon.png",
+          "seasonalItemType": "macaron"
         },
         {
-          "seasonal_item_id": "3",
-          "seasonal_item_title": "Keylime",
-          "seasonal_item_image_url": "file:///android_asset/images/seasonal_items/pairingtea_icon_4.png",
-          "seasonal_item_type": "macaron"
+          "seasonalItemTitle": "Cherry Blossom",
+          "seasonalItemImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon.png",
+          "seasonalItemType": "macaron"
         },
         {
-          "seasonal_item_id": "4",
-          "seasonal_item_title": "Cherry Blossom",
-          "seasonal_item_image_url": "file:///android_asset/images/seasonal_items/pairingtea_icon_3.png",
-          "seasonal_item_type": "macaron"
+          "seasonalItemTitle": "Red Sangria",
+          "seasonalItemImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon.png",
+          "seasonalItemType": "drinks"
         },
         {
-          "seasonal_item_id": "5",
-          "seasonal_item_title": "Red Sangria",
-          "seasonal_item_image_url": "file:///android_asset/images/seasonal_items/pairingtea_icon_2.png",
-          "seasonal_item_type": "drinks"
-        },
-        {
-          "seasonal_item_id": "6",
-          "seasonal_item_title": "Raspberry",
-          "seasonal_item_image_url": "file:///android_asset/images/seasonal_items/pairingtea_icon_1.png",
-          "seasonal_item_type": "macaron"
+          "seasonalItemTitle": "Raspberry",
+          "seasonalItemImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_strawbery.jpg",
+          "seasonalItemType": "macaron"
         }
-      ]
+]
