@@ -4,7 +4,7 @@
           "itemDescription": "Test Description",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg",
+          "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg",
          "productPairees": [
         {       
           "paireeDescription": "Cofee",      
@@ -46,7 +46,7 @@
           "itemDescription": "Test Description 2",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.jpg",
+          "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.jpg",
           "productPairees": [
         {       
           "paireeDescription": "Cofee",      
@@ -88,7 +88,7 @@
           "itemDescription": "Test Description 3",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lemon.jpg",
+          "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lemon.jpg",
           "productPairees": [
         {       
           "paireeDescription": "Cofee",      
@@ -130,7 +130,7 @@
           "itemDescription": "Test Description 3",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_strawberry.jpg",
+          "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_strawberry.jpg",
           "productPairees": [
         {       
           "paireeDescription": "Cofee",      
@@ -173,7 +173,7 @@
           "itemDescription": "Test Description 4",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_redvel.jpg",
+          "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_redvel.jpg",
           "productPairees": [
         {       
           "paireeDescription": "Cofee",      
@@ -216,7 +216,7 @@
           "itemDescription": "Test Description 5",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_orange.jpg",
+          "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_orange.jpg",
           "productPairees": [
         {       
           "paireeDescription": "Cofee",      
@@ -259,7 +259,7 @@
           "itemDescription": "Test Description 6",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lime_basil.jpg",
+          "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lime_basil.jpg",
           "productPairees": [
         {       
           "paireeDescription": "Cofee",      
@@ -302,7 +302,7 @@
           "itemDescription": "Test Description 7",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_bean.jpg",
+          "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_bean.jpg",
           "productPairees": [
         {       
           "paireeDescription": "Cofee",      
@@ -345,7 +345,7 @@
           "itemDescription": "Test Description 8",
           "itemPrice": "1.99",
           "itemType": "macarons",
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_guava.jpg",
+          "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_guava.jpg",
           "productPairees": [
         {       
           "paireeDescription": "Cofee",      
