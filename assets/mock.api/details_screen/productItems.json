@@ -39,7 +39,8 @@
           "parentId" : "Chocolate Covered"       
         }
         ],
-          "favorite": 0    
+          "favorite": 0,
+          "seasonalItem": "false"      
         },
         {          
           "itemTitle": "Vanilla Chocolate",
@@ -81,7 +82,8 @@
           "parentId" : "Vanilla Chocolate"       
         }
         ],
-          "favorite": 0      
+          "favorite": 0,
+          "seasonalItem": "true"       
         },
         {         
           "itemTitle": "Lemon",
@@ -123,7 +125,8 @@
           "parentId" : "Lemon"      
         }
         ],     
-          "favorite": 0
+          "favorite": 0,
+          "seasonalItem": "true"       
         },
         {
           "itemTitle": "Strawberry",
@@ -165,7 +168,8 @@
           "parentId" : "Strawberry"      
         }
         ],
-          "favorite": 0      
+          "favorite": 0,
+          "seasonalItem": "false"       
         },
         {
           "itemId": "5",
@@ -208,7 +212,8 @@
           "parentId" : "Red Velvet"      
         }
         ],
-          "favorite": 0      
+          "favorite": 0,
+          "seasonalItem": "true"       
         },
         {
           "itemId": "6",
@@ -251,7 +256,8 @@
           "parentId" : "Orange"       
         }
         ],
-          "favorite": 0      
+          "favorite": 0,
+          "seasonalItem": "true"       
         },
         {
           "itemId": "7",
@@ -294,7 +300,8 @@
           "parentId" : "Lime Basil"      
         }
         ],
-          "favorite": 0      
+          "favorite": 0,
+          "seasonalItem": "false"       
         },
         {
           "itemId": "8",
@@ -337,7 +344,8 @@
           "parentId" : "Vanilla Bean"      
         }
         ],
-          "favorite": 0      
+          "favorite": 0,
+          "seasonalItem": "false"       
         },
         {
           "itemId": "9",
@@ -380,7 +388,8 @@
           "parentId" : "Guava"       
         }
         ],
-          "favorite": 0      
+          "favorite": 0,
+          "seasonalItem": "false"       
         }
 ]
       
