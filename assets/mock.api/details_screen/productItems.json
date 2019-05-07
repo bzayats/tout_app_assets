@@ -5,8 +5,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg",
-         "productPairees": "Coffee, Sparling, Tea",
-         "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": "Coffee, Sparling, Tea",
+          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "false"      
         },
