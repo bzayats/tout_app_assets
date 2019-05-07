@@ -5,8 +5,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg",
-          "productPairees": "Coffee, Sparling, Tea",
-          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": ["Coffee", "Sparling", "Tea"],
+          "productLabels": ["Almond Flour", "Gluten Free", "Let it Chill"],
           "favorite": 0,
           "seasonalItem": "false"      
         },
@@ -16,8 +16,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.jpg",
-          "productPairees": "Coffee, Sparling, Tea",
-          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": ["Coffee", "Sparling", "Tea"],
+          "productLabels": ["Almond Flour", "Gluten Free", "Let it Chill"],
           "favorite": 0,
           "seasonalItem": "true"       
         },
@@ -27,8 +27,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lemon.jpg",
-          "productPairees": "Coffee, Sparling, Tea",
-          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": ["Coffee", "Sparling", "Tea"],
+          "productLabels": ["Almond Flour", "Gluten Free", "Let it Chill"],
           "favorite": 0,
           "seasonalItem": "true"       
         },
@@ -38,8 +38,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_strawberry.jpg",
-          "productPairees": "Coffee, Sparling, Tea",
-          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": ["Coffee", "Sparling", "Tea"],
+          "productLabels": ["Almond Flour", "Gluten Free", "Let it Chill"],
           "favorite": 0,
           "seasonalItem": "false"       
         },
@@ -50,8 +50,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_redvel.jpg",
-          "productPairees": "Coffee, Sparling, Tea",
-          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": ["Coffee", "Sparling", "Tea"],
+          "productLabels": ["Almond Flour", "Gluten Free", "Let it Chill"],
           "favorite": 0,
           "seasonalItem": "true"       
         },
@@ -62,8 +62,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_orange.jpg",
-          "productPairees": "Coffee, Sparling, Tea",
-          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": ["Coffee", "Sparling", "Tea"],
+          "productLabels": ["Almond Flour", "Gluten Free", "Let it Chill"],
           "favorite": 0,
           "seasonalItem": "true"       
         },
@@ -74,8 +74,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lime_basil.jpg",
-          "productPairees": "Coffee, Sparling, Tea",
-          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": ["Coffee", "Sparling", "Tea"],
+          "productLabels": ["Almond Flour", "Gluten Free", "Let it Chill"],
           "favorite": 0,
           "seasonalItem": "false"       
         },
@@ -86,8 +86,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_bean.jpg",
-          "productPairees": "Coffee, Sparling, Tea",
-          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": ["Coffee", "Sparling", "Tea"],
+          "productLabels": ["Almond Flour", "Gluten Free", "Let it Chill"],
           "favorite": 0,
           "seasonalItem": "false"       
         },
@@ -98,8 +98,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_guava.jpg",
-          "productPairees": "Coffee, Sparling, Tea",
-          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
+          "productPairees": ["Coffee", "Sparling", "Tea"],
+          "productLabels": ["Almond Flour", "Gluten Free", "Let it Chill"],
           "favorite": 0,
           "seasonalItem": "false"       
         }
