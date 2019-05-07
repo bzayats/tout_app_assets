@@ -5,40 +5,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg",
-         "productPairees": [
-        {       
-          "paireeDescription": "Cofee",      
-          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcofee_icon_png",
-          "parentId" : "Chocolate Covered"      
-        },
-        {          
-          "paireeDescription": "Sparkling",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon_png",
-          "parentId" : "Chocolate Covered"       
-        },
-        {         
-          "paireeDescription": "Tea",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon_png",
-          "parentId" : "Chocolate Covered"       
-        }
-        ],
-        "productLabels": [
-        {       
-          "labelTitle": "Almond Flour",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png",
-          "parentId" : "Chocolate Covered"       
-        },
-        {          
-          "labelTitle": "Gluten Free",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png",
-          "parentId" : "Chocolate Covered"       
-        },
-        {         
-          "labelTitle": "Let it Chill",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png",
-          "parentId" : "Chocolate Covered"       
-        }
-        ],
+         "productPairees": "Coffee, Sparling, Tea",
+         "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "false"      
         },
@@ -48,40 +16,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.jpg",
-          "productPairees": [
-        {       
-          "paireeDescription": "Cofee",      
-          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcofee_icon_png",
-          "parentId" : "Vanilla Chocolate"       
-        },
-        {          
-          "paireeDescription": "Sparkling",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon_png",
-          "parentId" : "Vanilla Chocolate"      
-        },
-        {         
-          "paireeDescription": "Tea",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon_png",
-          "parentId" : "Vanilla Chocolate"      
-        }
-        ],
-        "productLabels": [
-        {       
-          "labelTitle": "Almond Flour",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png",
-          "parentId" : "Vanilla Chocolate"       
-        },
-        {          
-          "labelTitle": "Gluten Free",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png",
-          "parentId" : "Vanilla Chocolate"       
-        },
-        {         
-          "labelTitle": "Let it Chill",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png",
-          "parentId" : "Vanilla Chocolate"       
-        }
-        ],
+          "productPairees": "Coffee, Sparling, Tea",
+          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "true"       
         },
@@ -91,40 +27,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lemon.jpg",
-          "productPairees": [
-        {       
-          "paireeDescription": "Cofee",      
-          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcofee_icon_png",
-          "parentId" : "Lemon"       
-        },
-        {          
-          "paireeDescription": "Sparkling",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon_png",
-          "parentId" : "Lemon"      
-        },
-        {         
-          "paireeDescription": "Tea",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon_png",
-          "parentId" : "Lemon"      
-        }
-        ],
-        "productLabels": [
-        {       
-          "labelTitle": "Almond Flour",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png",
-          "parentId" : "Lemon"      
-        },
-        {          
-          "labelTitle": "Gluten Free",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png",
-          "parentId" : "Lemon"      
-        },
-        {         
-          "labelTitle": "Let it Chill",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png",
-          "parentId" : "Lemon"      
-        }
-        ],     
+          "productPairees": "Coffee, Sparling, Tea",
+          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "true"       
         },
@@ -134,40 +38,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_strawberry.jpg",
-          "productPairees": [
-        {       
-          "paireeDescription": "Cofee",      
-          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcofee_icon_png",
-          "parentId" : "Strawberry"      
-        },
-        {          
-          "paireeDescription": "Sparkling",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon_png",
-          "parentId" : "Strawberry"      
-        },
-        {         
-          "paireeDescription": "Tea",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon_png",
-          "parentId" : "Strawberry"      
-        }
-        ],
-        "productLabels": [
-        {       
-          "labelTitle": "Almond Flour",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png",
-          "parentId" : "Strawberry"      
-        },
-        {          
-          "labelTitle": "Gluten Free",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png",
-          "parentId" : "Strawberry"      
-        },
-        {         
-          "labelTitle": "Let it Chill",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png",
-          "parentId" : "Strawberry"      
-        }
-        ],
+          "productPairees": "Coffee, Sparling, Tea",
+          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "false"       
         },
@@ -178,40 +50,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_redvel.jpg",
-          "productPairees": [
-        {       
-          "paireeDescription": "Cofee",      
-          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcofee_icon_png",
-          "parentId" : "Red Velvet"      
-        },
-        {          
-          "paireeDescription": "Sparkling",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon_png",
-          "parentId" : "Red Velvet"      
-        },
-        {         
-          "paireeDescription": "Tea",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon_png",
-          "parentId" : "Red Velvet"      
-        }
-        ],
-        "productLabels": [
-        {       
-          "labelTitle": "Almond Flour",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png",
-          "parentId" : "Red Velvet"      
-        },
-        {          
-          "labelTitle": "Gluten Free",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png",
-          "parentId" : "Red Velvet"      
-        },
-        {         
-          "labelTitle": "Let it Chill",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png",
-          "parentId" : "Red Velvet"      
-        }
-        ],
+          "productPairees": "Coffee, Sparling, Tea",
+          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "true"       
         },
@@ -222,40 +62,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_orange.jpg",
-          "productPairees": [
-        {       
-          "paireeDescription": "Cofee",      
-          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcofee_icon_png",
-          "parentId" : "Orange"      
-        },
-        {          
-          "paireeDescription": "Sparkling",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon_png",
-          "parentId" : "Orange"      
-        },
-        {         
-          "paireeDescription": "Tea",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon_png",
-          "parentId" : "Orange"       
-        }
-        ],
-        "productLabels": [
-        {       
-          "labelTitle": "Almond Flour",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png",
-          "parentId" : "Orange"       
-        },
-        {          
-          "labelTitle": "Gluten Free",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png",
-          "parentId" : "Orange"       
-        },
-        {         
-          "labelTitle": "Let it Chill",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png",
-          "parentId" : "Orange"       
-        }
-        ],
+          "productPairees": "Coffee, Sparling, Tea",
+          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "true"       
         },
@@ -266,40 +74,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lime_basil.jpg",
-          "productPairees": [
-        {       
-          "paireeDescription": "Cofee",      
-          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcofee_icon_png",
-          "parentId" : "Lime Basil"       
-        },
-        {          
-          "paireeDescription": "Sparkling",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon_png",
-          "parentId" : "Lime Basil"      
-        },
-        {         
-          "paireeDescription": "Tea",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon_png",
-          "parentId" : "Lime Basil"      
-        }
-        ],
-        "productLabels": [
-        {       
-          "labelTitle": "Almond Flour",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png",
-          "parentId" : "Lime Basil"      
-        },
-        {          
-          "labelTitle": "Gluten Free",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png",
-          "parentId" : "Lime Basil"      
-        },
-        {         
-          "labelTitle": "Let it Chill",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png",
-          "parentId" : "Lime Basil"      
-        }
-        ],
+          "productPairees": "Coffee, Sparling, Tea",
+          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "false"       
         },
@@ -310,40 +86,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_bean.jpg",
-          "productPairees": [
-        {       
-          "paireeDescription": "Cofee",      
-          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcofee_icon_png",
-          "parentId" : "Vanilla Bean"      
-        },
-        {          
-          "paireeDescription": "Sparkling",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon_png",
-          "parentId" : "Vanilla Bean"      
-        },
-        {         
-          "paireeDescription": "Tea",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon_png",
-          "parentId" : "Vanilla Bean"      
-        }
-        ],
-        "productLabels": [
-        {       
-          "labelTitle": "Almond Flour",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png",
-          "parentId" : "Vanilla Bean"      
-        },
-        {          
-          "labelTitle": "Gluten Free",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png",
-          "parentId" : "Vanilla Bean"      
-        },
-        {         
-          "labelTitle": "Let it Chill",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png",
-          "parentId" : "Vanilla Bean"      
-        }
-        ],
+          "productPairees": "Coffee, Sparling, Tea",
+          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "false"       
         },
@@ -354,40 +98,8 @@
           "itemPrice": "1.99",
           "itemType": "macarons",
           "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_guava.jpg",
-          "productPairees": [
-        {       
-          "paireeDescription": "Cofee",      
-          "paireeImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingcofee_icon_png",
-          "parentId" : "Guava"      
-        },
-        {          
-          "paireeDescription": "Sparkling",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingsparkling_icon_png",
-          "parentId" : "Guava"       
-        },
-        {         
-          "paireeDescription": "Tea",         
-          "imageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pairings/pairingtea_icon_png",
-          "parentId" : "Guava"       
-        }
-        ],
-        "productLabels": [
-        {       
-          "labelTitle": "Almond Flour",      
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/almondflour_icon.png",
-          "parentId" : "Guava"       
-        },
-        {          
-          "labelTitle": "Gluten Free",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/glutenfree_icon.png",
-          "parentId" : "Guava"       
-        },
-        {         
-          "labelTitle": "Let it Chill",         
-          "labelImageUrl": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/labels/letitchill_icon.png",
-          "parentId" : "Guava"       
-        }
-        ],
+          "productPairees": "Coffee, Sparling, Tea",
+          "productLabels": "Almond Flour, Gluten Free, Let it Chill",
           "favorite": 0,
           "seasonalItem": "false"       
         }
