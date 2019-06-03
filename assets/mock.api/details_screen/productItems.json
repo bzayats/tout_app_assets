@@ -1,7 +1,7 @@
 [
   {
     "itemTitle": "Chocolate Covered",
-    "itemDescription": "Chocolate Covered macaron",
+    "itemDescription": "For the chockolate lovers",
     "itemPrice": "1.99",
     "itemType": "macarons",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_chocolate_covered.jpg",
@@ -12,7 +12,7 @@
   },
   {
     "itemTitle": "Vanilla Chocolate",
-    "itemDescription": "Vanilla Chocolate macaron",
+    "itemDescription": "Vanilla is always a solid choice",
     "itemPrice": "1.99",
     "itemType": "macarons",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_chocolate.jpg",
@@ -23,7 +23,7 @@
   },
   {
     "itemTitle": "Lemon",
-    "itemDescription": "Lemon macaron",
+    "itemDescription": "Citrusy",
     "itemPrice": "1.99",
     "itemType": "macarons",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lemon.jpg",
@@ -34,7 +34,7 @@
   },
   {
     "itemTitle": "Strawberry",
-    "itemDescription": "Strawberry macaron",
+    "itemDescription": "Can never go wrong with anything strawberry",
     "itemPrice": "1.99",
     "itemType": "macarons",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_strawberry.jpg",
@@ -45,7 +45,7 @@
   },
   {
     "itemTitle": "Red Velvet",
-    "itemDescription": "Red Velvet macaron",
+    "itemDescription": "Umm, my favorite",
     "itemPrice": "1.99",
     "itemType": "macarons",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_redvel.jpg",
@@ -56,7 +56,7 @@
   },
   {
     "itemTitle": "Orange",
-    "itemDescription": "Orange macaron",
+    "itemDescription": "Nice color",
     "itemPrice": "1.99",
     "itemType": "macarons",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_orange.jpg",
@@ -67,7 +67,7 @@
   },
   {
     "itemTitle": "Lime Basil",
-    "itemDescription": "Lime Basil macaron",
+    "itemDescription": "This is an interesting one to try",
     "itemPrice": "1.99",
     "itemType": "macarons",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_lime_basic.jpg",
@@ -78,7 +78,7 @@
   },
   {
     "itemTitle": "Vanilla Bean",
-    "itemDescription": "Vanilla Bean macaron",
+    "itemDescription": "Vanilla Bean macaron will make you come back",
     "itemPrice": "1.99",
     "itemType": "macarons",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_vanilla_bean.jpg",
@@ -89,7 +89,7 @@
   },
   {
     "itemTitle": "Guava",
-    "itemDescription": "Guava macaron",
+    "itemDescription": "This is luxury",
     "itemPrice": "1.99",
     "itemType": "macarons",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/macarons/macaron_guava.jpg",
@@ -100,7 +100,7 @@
   },
   {
     "itemTitle": "Classic Brioche",
-    "itemDescription": "Brioche bread",
+    "itemDescription": "Delicious treat",
     "itemPrice": "4.99",
     "itemType": "breads",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/breads/breads_classicbrioche.png",
@@ -111,7 +111,7 @@
   },
   {
     "itemTitle": "French Baguette",
-    "itemDescription": "French Baguette",
+    "itemDescription": "Oh la la",
     "itemPrice": "5.99",
     "itemType": "breads",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/breads/breads_frenchbaguette.png",
@@ -122,7 +122,7 @@
   },
   {
     "itemTitle": "Hot Chocolate",
-    "itemDescription": "Hot Chocolate",
+    "itemDescription": "Hot Chocolate will make warm and cozy",
     "itemPrice": "3.99",
     "itemType": "drinks",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/drinks/drinks_hotchocolate.png",
@@ -133,7 +133,7 @@
   },
   {
     "itemTitle": "Latte",
-    "itemDescription": "Latte",
+    "itemDescription": "Latte comes with a nice heart",
     "itemPrice": "2.99",
     "itemType": "drinks",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/drinks/drinks_latte.png",
@@ -144,7 +144,7 @@
   },
   {
     "itemTitle": "Matcha Latte",
-    "itemDescription": "Matcha Latte",
+    "itemDescription": "Healthy choice",
     "itemPrice": "3.99",
     "itemType": "drinks",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/drinks/drinks_matchalatte.png",
@@ -155,7 +155,7 @@
   },
   {
     "itemTitle": "Chocolate Berries",
-    "itemDescription": "Chocolate Berries",
+    "itemDescription": "Chocolate Berries, an awesome combination",
     "itemPrice": "45.99",
     "itemType": "cakes",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/cakes/cakes_chocolateberries.png",
@@ -166,7 +166,7 @@
   },
   {
     "itemTitle": "Chocolate Swirl",
-    "itemDescription": "Chocolate Swirl",
+    "itemDescription": "Great addition to any bday",
     "itemPrice": "50.99",
     "itemType": "cakes",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/cakes/cakes_chocolateswirl.png",
@@ -177,7 +177,7 @@
   },
   {
     "itemTitle": "Raspberry Cream",
-    "itemDescription": "Raspberry Cream",
+    "itemDescription": "Has that interesting flavor",
     "itemPrice": "39.99",
     "itemType": "cakes",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/cakes/cakes_raspberry_cream.png",
@@ -188,7 +188,7 @@
   },
   {
     "itemTitle": "Blackberry Cupcake",
-    "itemDescription": "Blackberry Cupcake",
+    "itemDescription": "Get it, tastes delish",
     "itemPrice": "4.99",
     "itemType": "cupcakes",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/cupcakes/cupcakes_blackberries.png",
@@ -199,7 +199,7 @@
   },
   {
     "itemTitle": "Lemon Cupcake",
-    "itemDescription": "Lemon Cupcake",
+    "itemDescription": "Another great choice",
     "itemPrice": "4.99",
     "itemType": "cupcakes",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/cupcakes/cupcakes_lemon.png",
@@ -210,7 +210,7 @@
   },
   {
     "itemTitle": "Caramel Carrot Cupcake",
-    "itemDescription": "Caramel Carrot Cupcake",
+    "itemDescription": "Caramel Carrot cupcake will make you crave for more",
     "itemPrice": "4.99",
     "itemType": "cupcakes",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/cupcakes/cupcakes_caramelcarrot.png",
@@ -221,7 +221,7 @@
   },
   {
     "itemTitle": "Almond Croissant",
-    "itemDescription": "Almond Croissant",
+    "itemDescription": "Finally, morning is here",
     "itemPrice": "4.99",
     "itemType": "pastries",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pastries/pastries_almond_croissant.png",
@@ -232,7 +232,7 @@
   },
   {
     "itemTitle": "Madeleines",
-    "itemDescription": "Madeleines",
+    "itemDescription": "Can't wait to get more",
     "itemPrice": "1.99",
     "itemType": "pastries",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pastries/pastries_madeleines.png",
@@ -243,7 +243,7 @@
   },
   {
     "itemTitle": "Croissant",
-    "itemDescription": "Croissant",
+    "itemDescription": "Can never go wrong with the simple choice",
     "itemPrice": "4.99",
     "itemType": "pastries",
     "itemImageURL": "https://raw.githubusercontent.com/bzayats/tout_app_assets/master/assets/mock.api/images/details_screen/pastries/pastries_croissant.png",
@@ -253,3 +253,4 @@
     "seasonalItem": "false"
   }
 ]
+      
